@@ -41,7 +41,7 @@ class Personnage {
       }
     } else {
       console.log(
-        `${this.nom} n'a plus de points de vie et ne pas pas attaquer`
+        `${this.nom} n'a plus de points de vie et ne va pas attaquer`
       );
     }
   }
